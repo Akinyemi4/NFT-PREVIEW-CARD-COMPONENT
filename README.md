@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Akinyemi4/NFT-PREVIEW-CARD-COMPONENT)
+- Live Site URL: [Live site URL](https://akinyemi4.github.io/NFT-PREVIEW-CARD-COMPONENT/)
 
 ## My process
 I start most of my solutions sequentially starting from HTML section then the CSS part to get a beginning structure after which I adjust somethings moving from one section to the other.
