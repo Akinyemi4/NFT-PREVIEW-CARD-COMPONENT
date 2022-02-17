@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    margin-top: 10px;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+body {
+    font-family: "Outfit",sans-serif;
+    font-size: 18px;
+    display:flex;
+    flex-direction: column;
+    background-color:  hsl(217, 54%, 11%);
+    height: calc(100vh - 1px);
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    background-color:  hsl(216, 50%, 16%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    padding: 8px;
+    row-gap: 15px;
+}
+.main-image {
+    border-radius: 10px;
+    margin: 15px 10px;
+    width: 270px;
+}
+article {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    align-items: flex-start;
+    justify-items: center;
+    width: 270px;
+}
+h1{
+    color:  hsl(0, 0%, 100%);
+    font-size: 18px;
+}
+.icon-container {
+    width: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+hr {
+    height: 2px;
+    width: 270px;
+    background-color:   hsl(215, 32%, 27%);
+}
+footer {
+    margin-left: 20px;
+}
+.footer-01 {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.Etherium , .Time {
+    display: inline;
+}
+.Etherium-par , .Time-par {
+    display: flex;
+    gap: 8px;
+    font-size: 18px;
+}
+.par-01 {
+    color:  hsl(178, 100%, 50%);
+    font-size: 15px;
+}
+.par-02 {
+    font-size: 15px;
+}
+.first-par , .par-02 {
+    color:  hsl(215, 51%, 70%);
+}
+.footer-par {
+    font-size: 15px;
+}
+.author-image {
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.highlight {
+    color: white;
+}
+.highlight-01 {
+    color: hsl(215, 51%, 70%);
+}
