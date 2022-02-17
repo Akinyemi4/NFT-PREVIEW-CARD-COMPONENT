@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](images\PRACTICE 2.jpg)
+![Screenshot](images/PRACTICE 2.jpg)
 
 ### Links
 
